@@ -1,0 +1,22 @@
+{
+  "name": "page-fetcher-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node fetcher.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workuseifu1/page-fetcher_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/workuseifu1/page-fetcher_1/issues"
+  },
+  "homepage": "https://github.com/workuseifu1/page-fetcher_1#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
